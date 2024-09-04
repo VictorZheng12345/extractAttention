@@ -1,4 +1,4 @@
-Dataset is Tomato_disease please take it to the place whatever you want.
+Dataset is from https://www.kaggle.com/datasets/victorzhe/tomato-disease?select=Tomato___early_blight
 Don`t forget to replace the path.
-Extractattention-v1 is the code of extractAttention.
-In extractattention-v1,there are a lot of blocks of the extractAttentionHead which include 4H0E,8H2E,etc. please choose the Head you want to run. 
+Extractattention is the code of extractAttention.
+In extractattention, there are a lot of blocks of the extractAttentionHead which include 4H0E,8H2E,etc. please choose the Head you want to run. 
